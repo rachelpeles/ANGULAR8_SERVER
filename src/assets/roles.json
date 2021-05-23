@@ -1,0 +1,14 @@
+[
+    {
+        "id":1,
+        "discretion":"manager"
+    },
+    {
+        "id":2,
+        "discretion":"programer"
+    },
+    {
+        "id":3,
+        "discretion":"QA"
+    }
+]

@@ -7,4 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'homeWork';
+  showSalarys:boolean=true;
+  setShowSalarys(value:boolean){
+    this.showSalarys=value;
+    console.log(this.showSalarys);
+  }
 }
